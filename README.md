@@ -3,7 +3,7 @@ One Web Crawler created for  JOB Interview
 
 #Example call
 
-http://localhost:8080/fetchRepository?repositoryUrl=https://github.com/akaunting/firewall
+https://rocky-mountain-84841.herokuapp.com/fetchRepository?repositoryUrl=https://github.com/akaunting/firewall
 
 #Example response 
 
